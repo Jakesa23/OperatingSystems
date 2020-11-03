@@ -4,3 +4,6 @@ You can use the file manager to organize and sort your files.
 Another system is the Device manager.
 This is inchage of all devices on the computer.
 This includes the hard drives the keyboard, mouse ,etc.
+The memory manager controls the RAM.
+It will comunicate with the processer manager and the rest of the managers to figure out what to load and get ready for the processer.
+It is not in charge of storage memory however.
