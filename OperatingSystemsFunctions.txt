@@ -1,0 +1,3 @@
+The File manager in the Operating system is resposabile for a lot.
+It manages all of the data that the operating system uses. 
+You can use the file manager to organize and sort your files.
