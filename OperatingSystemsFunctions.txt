@@ -1,3 +1,6 @@
 The File manager in the Operating system is resposabile for a lot.
 It manages all of the data that the operating system uses. 
 You can use the file manager to organize and sort your files.
+Another system is the Device manager.
+This is inchage of all devices on the computer.
+This includes the hard drives the keyboard, mouse ,etc.
